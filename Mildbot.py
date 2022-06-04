@@ -6,7 +6,7 @@ import asyncio
 import collections
 
 #Settings
-liveID = 10011483
+liveID = 10105254
 TOKEN = "Token"
 
 PauseSign = 0
